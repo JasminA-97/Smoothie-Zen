@@ -1,0 +1,24 @@
+.descr{
+    font-family: 'Inter', sans-serif;
+    text-align:center; 
+}
+.descr h4{
+    font-weight:900px;
+    margin-bottom:10px;
+ }
+ /* .descr p{
+    font-size:13px;
+    margin-top:10px;
+    line-height:1.2rem;
+ } */
+ .descr a{
+    text-decoration:none;
+    color:black;
+    font-family: 'Arimo', sans-serif;
+    font-size:12px;
+    font-weight:700; 
+    border:solid 2px;
+    padding:4px 15px;;
+    letter-spacing:2px;
+   
+ }
